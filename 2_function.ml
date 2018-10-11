@@ -18,4 +18,3 @@ print_string "\n";
 
 print_int (div 3);
 print_string "\n";
-
